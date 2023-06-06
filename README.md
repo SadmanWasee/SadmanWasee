@@ -7,10 +7,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sadman wasee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadman wasee" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/sadman wasee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sadman wasee" height="30" width="40" /></a>
-<a href="https://fb.com/sadman wasee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sadman wasee" height="30" width="40" /></a>
-<a href="https://instagram.com/sadman wasee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sadman wasee" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sadman-wasee-785790266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadman-wasee-785790266" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/sadman-wasee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sadman-wasee" height="30" width="40" /></a>
+<a href="https://fb.com/ace.wasee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ace.wasee" height="30" width="40" /></a>
+<a href="https://instagram.com/sadmanwasee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sadmanwasee" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -21,4 +21,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sadmanwasee&show_icons=true&locale=en" alt="sadmanwasee" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadmanwasee&" alt="sadmanwasee" /></p>
-
